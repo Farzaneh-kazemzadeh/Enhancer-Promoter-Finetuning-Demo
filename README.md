@@ -1,2 +1,2 @@
 # Enhancer-Promoter-Finetuning-Demo
-Public demo: sanitized Fine-tuning (Full/LoRA) 
+Public demo: sanitized Fine-tuning (Full/LoRA/QLora/Head) 
